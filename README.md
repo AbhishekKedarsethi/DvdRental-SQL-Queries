@@ -10,6 +10,25 @@ You can explore how different entities are related, perform deep data analysis, 
 
 ---
 
+
+##📁 Folder Structure
+```bash 
+  DVD-Rental-Database/
+├── README.md
+├── data/
+│   ├── Sql Tables Data/
+│   └── Raw Data/
+├── queries/
+│   ├── all_queries.sql
+│   ├── easy_queries.sql
+│   ├── medium_queries.sql
+│   └── hard_queries.sql
+└── images/
+    └── er_diagram.png
+  ``` 
+
+---
+
 ## 🗂️ Database Schema
 
 The schema includes the following key tables:
@@ -38,19 +57,7 @@ The schema includes the following key tables:
 
 ---
 
-##📁 Folder Structure
-```bash 
-  DVD-Rental-Database/
-├── README.md
-├── data/
-│   ├── Sql Tables Data/
-│   └── Raw Data/
-├── queries/
-│   ├── all_queries.sql
-│   ├── easy_queries.sql
-│   ├── medium_queries.sql
-│   └── hard_queries.sql
-└── images/
-    └── er_diagram.png
-  ``` 
+## 🗂 ER Diagram
+The ER diagram below illustrates the schema and relationships among all the tables in the DVD Rental database.
 
+![ER Diagram](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/5890eec467ab690787153be6cf93e2b456ad81cb/picture.png)
