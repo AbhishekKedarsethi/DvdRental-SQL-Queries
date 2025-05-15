@@ -39,12 +39,13 @@ The schema includes the following key tables:
 ---
 
 📦 DVD-Rental-Database/
+│
 ├── README.md
 ├── data/
-|   ├─ Sql Tables Data
-│   └── Raw Data
+│   ├── Sql Tables Data/
+│   └── Raw Data/
 ├── queries/
-|   ├──all_queries.sql
+│   ├── all_queries.sql
 │   ├── easy_queries.sql
 │   ├── medium_queries.sql
 │   └── hard_queries.sql
