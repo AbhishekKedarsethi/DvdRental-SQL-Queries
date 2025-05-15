@@ -43,7 +43,7 @@ The schema includes the following key tables:
   DVD-Rental-Database/
 ├── README.md
 ├── data/
-│   ├── Sql Tables Data/
+│   ├── [Sql Tables Data/](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/d0beab01d03ea6138f9da6f2621376ab8a744e14/Tables_data.zip)
 │   └── Raw Data/
 ├── queries/
 │   ├── all_queries.sql
