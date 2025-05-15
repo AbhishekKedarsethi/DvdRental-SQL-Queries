@@ -39,7 +39,6 @@ The schema includes the following key tables:
 ---
 
 📦 DVD-Rental-Database/
-│
 ├── README.md
 ├── data/
 │   ├── Sql Tables Data/
