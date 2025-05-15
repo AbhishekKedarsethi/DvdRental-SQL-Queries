@@ -14,7 +14,7 @@ You can explore how different entities are related, perform deep data analysis, 
 ##📁 Folder Structure
 ```bash 
   DVD-Rental-Database/
-├── README.md
+├── [README](README.md)
 ├── data/
 │   ├── Sql Tables Data/
 │   └── Raw Data/
