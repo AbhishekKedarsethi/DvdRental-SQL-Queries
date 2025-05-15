@@ -32,11 +32,11 @@ You can explore how different entities are related, perform deep data analysis, 
 - [README.md](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/b2d919c84ffc3d2e45011588beb4419d2a739669/README.md)
 - [Sql Tables Data folder](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/db36e5a6f0f8ebe60d456d2072a8f43b409554e6/Data/Tables_data.zip)
 - [Raw Data folder](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/db36e5a6f0f8ebe60d456d2072a8f43b409554e6/Data/dvdrental_raw.tar)
-- [all_queries.sql]()
-- [easy_queries.sql]()
-- [medium_queries.sql]()
-- [hard_queries.sql]()
-- [er_diagram.png]()
+- [all_queries.sql](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/3f49c77e0325a98f258c26cbe6410982615ee789/queries/all_queries.sql)
+- [easy_queries.sql](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/3f49c77e0325a98f258c26cbe6410982615ee789/queries/easy_queries.sql)
+- [medium_queries.sql](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/3f49c77e0325a98f258c26cbe6410982615ee789/queries/medium_queries.sql)
+- [hard_queries.sql](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/3f49c77e0325a98f258c26cbe6410982615ee789/queries/hard_queries.sql)
+- [er_diagram.png](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/3f49c77e0325a98f258c26cbe6410982615ee789/images/picture.png)
 
 ---
 
@@ -71,4 +71,4 @@ The schema includes the following key tables:
 ## 🗂 ER Diagram
 The ER diagram below illustrates the schema and relationships among all the tables in the DVD Rental database.
 
-![ER Diagram](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/5890eec467ab690787153be6cf93e2b456ad81cb/picture.png)
+![ER Diagram](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/3f49c77e0325a98f258c26cbe6410982615ee789/images/picture.png)
