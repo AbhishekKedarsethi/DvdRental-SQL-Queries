@@ -39,5 +39,5 @@ The schema includes the following key tables:
 ---
 
 ##📁 Folder Structure
-```bash📦 DVD-Rental-Database/  ├── README.md ├── data/ │ ├── Sql Tables Data/ │ └── Raw Data/ ├── queries/ │ ├── all_queries.sql │ ├── easy_queries.sql │ ├── medium_queries.sql │ └── hard_queries.sql └── images/ └── er_diagram.png```
+<pre>```bash📦 DVD-Rental-Database/  ├── README.md ├── data/ │ ├── Sql Tables Data/ │ └── Raw Data/ ├── queries/ │ ├── all_queries.sql │ ├── easy_queries.sql │ ├── medium_queries.sql │ └── hard_queries.sql └── images/ └── er_diagram.png```</pre>
 
