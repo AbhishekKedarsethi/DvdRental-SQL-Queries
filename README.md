@@ -14,10 +14,10 @@ You can explore how different entities are related, perform deep data analysis, 
 ##📁 Folder Structure
 ```bash 
   DVD-Rental-Database/
-├── [README.md](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/b2d919c84ffc3d2e45011588beb4419d2a739669/README.md)
-├── [data/](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/tree/b296b1771ec572feb428fe3e85942e1359d660be/Data)
-│   ├── [Sql Tables Data/](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/db36e5a6f0f8ebe60d456d2072a8f43b409554e6/Data/Tables_data.zip)
-│   └── [Raw Data/](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/db36e5a6f0f8ebe60d456d2072a8f43b409554e6/Data/dvdrental_raw.tar)
+├── README.md
+├── data/
+│   ├── Sql Tables Data/
+│   └── Raw Data/
 ├── queries/
 │   ├── all_queries.sql
 │   ├── easy_queries.sql
@@ -26,6 +26,17 @@ You can explore how different entities are related, perform deep data analysis, 
 └── images/
     └── er_diagram.png
   ``` 
+
+### Links
+
+- [README.md](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/b2d919c84ffc3d2e45011588beb4419d2a739669/README.md)
+- [Sql Tables Data folder](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/db36e5a6f0f8ebe60d456d2072a8f43b409554e6/Data/Tables_data.zip)
+- [Raw Data folder](https://github.com/AbhishekKedarsethi/DvdRental-SQL-Queries/blob/db36e5a6f0f8ebe60d456d2072a8f43b409554e6/Data/dvdrental_raw.tar)
+- [all_queries.sql]()
+- [easy_queries.sql]()
+- [medium_queries.sql]()
+- [hard_queries.sql]()
+- [er_diagram.png]()
 
 ---
 
