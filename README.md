@@ -1,4 +1,4 @@
-# 🎬 DVD Rental SQL Project
+# 🎬 RETRO DVD Rental SQL Project
 
 Welcome to the **DVD Rental SQL Database Project**, a comprehensive data analysis and querying project built on a relational schema used by a DVD rental store. This database is a great resource for practicing complex SQL queries, joins, subqueries, and database design concepts.
 
